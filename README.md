@@ -146,3 +146,4 @@ Copyright (c) 2014 [John Dyer][7] and [contributors][8], released under the [New
 [9]: https://github.com/solidusio-contrib/solidus_social/blob/master/LICENSE.md
 [10]: https://login.amazon.com/manageApps
 [11]: https://github.com/solidusio-contrib/solidus_social/blob/master/CONTRIBUTING.md
+# solidus-social
